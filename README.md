@@ -1,5 +1,4 @@
 # Quiz1_Mobile_Septiandwiarya
-Hasil Quiz Septiandwiarya
 import 'package:flutter/material.dart';
 
 void main() {
